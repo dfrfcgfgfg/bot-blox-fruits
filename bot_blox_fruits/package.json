@@ -1,0 +1,21 @@
+{
+  "name": "bot_blox_fruits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.8.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.1",
+    "whatsapp-web.js": "^1.27.0"
+  }
+}
